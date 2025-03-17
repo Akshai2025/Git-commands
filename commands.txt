@@ -1,3 +1,4 @@
 
 
-git clone <repository url> for cloning a repository from github
+git clone <repository url> for cloning a repository from github .
+git branch new branchgit switch newbranch
